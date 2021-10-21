@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="record.css" ?>
+
+
+
+ <Record>
+<firstTag> Student_Record
+</firstTag>
+<data> 
+<data-header> StudentId </data-header> 
+<data-header> Name </data-header> 
+<data-header> Surname </data-header> 
+<data-header> Course </data-header> 
+</data>
+
+<data> 
+<data-cell> 00123 </data-cell> 
+<data-cell> Riya</data-cell>
+<data-cell> Vishwa</data-cell> 
+<data-cell> CSE</data-cell> 
+</data>
+
+<data> 
+<data-cell> 00124 </data-cell> 
+<data-cell> Ramesh</data-cell>
+<data-cell> Vishwa</data-cell> 
+<data-cell> CSE</data-cell>
+</data>
+
+<data> 
+<data-cell> 00124 </data-cell> 
+<data-cell> Arnab</data-cell>
+<data-cell> Swami</data-cell> 
+<data-cell> Mech</data-cell>
+</data>
+
+<data> 
+<data-cell> 00125 </data-cell> 
+<data-cell> Ramesh</data-cell>
+<data-cell> Yadav </data-cell> 
+<data-cell> CSE</data-cell>
+</data>
+
+<data> 
+<data-cell> 00125 </data-cell> 
+<data-cell> Vikas</data-cell>
+<data-cell> Sharma </data-cell> 
+<data-cell> CSE</data-cell>
+</data>
+
+<data> 
+<data-cell> 00126 </data-cell> 
+<data-cell> Ramesh</data-cell>
+<data-cell> Vishwa</data-cell> 
+<data-cell> CSE</data-cell>
+</data>
+
+<data> 
+<data-cell> 00127 </data-cell> 
+<data-cell> Virat </data-cell>
+<data-cell> Tiwari</data-cell> 
+<data-cell> Elex </data-cell>
+</data>
+
+<data> 
+<data-cell> 00128 </data-cell> 
+<data-cell> Sachin </data-cell>
+<data-cell> Sharma</data-cell> 
+<data-cell> Extc </data-cell>
+</data>
+
+<data> 
+<data-cell> 00129 </data-cell> 
+<data-cell> Yuvraj </data-cell>
+<data-cell> Singh </data-cell> 
+<data-cell> Etrx</data-cell>
+</data>
+ </Record>
+
+
+
